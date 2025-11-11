@@ -1,0 +1,142 @@
+// {
+//     assistantId
+// : 
+// "68145beb76bf01258ce34ce6"
+// countryCode
+// : 
+// "+91"
+// testToName
+// : 
+// "Narendra"
+// toNumber
+// : 
+// "9454197886"
+// }
+
+
+
+
+{
+    "isIntervened": false,
+    "isRequesting": "2025-05-21T04:30:51.079Z",
+    "lastActive": "2025-05-21T04:30:48.000Z",
+    "lastChat": "2025-05-21T04:30:48.000Z",
+    "firstMessage": null,
+    "assistantId": "68145beb76bf01258ce34ce6",
+    "clientId": "68145beb76bf01258ce34ce1",
+    "userName": "lion 🦁",
+    "countryCode": "91",
+    "userId": "na",
+    "macSessionCreatorGsId": "wamid.HBgMOTE5NDU0MTk3ODg2FQIAERgSQkIxNTYyMzM4NTIwRkM5N0JFAA==",
+    "macSessionStatus": "APPROVED",
+    "sessionCreatedBy": "USER",
+    "sessionCreatedOn": "2025-05-03T09:56:43.012Z",
+    "sessionPeriod": "2025-05-03T07:38:43.000Z",
+    "whatsappConversationId": "deea72cd4e254face4526727cf700c32",
+    "whatsappConversationType": "utility",
+    "whatsappConvoExpTime": "2025-05-15T10:47:00.000Z",
+    "offmessageSetTime": null,
+    "conversationId": "6815e848199252000827db94",
+    "number": "919454197886",
+    "prevLastActive": "2025-05-05T09:43:08.000Z",
+    "intervenedBy": null
+}
+
+
+
+{
+    "audience": [],
+    "sentToUsers": [],
+    "selectBasis": "heterogeneous",
+    "createdBy": "agent",
+    "retryCompletedAt": [],
+    "selected": [
+        "916376466696"
+    ],
+    "unSelected": [],
+    "retryAttempts": 0,
+    "hasScheduledRetryCampaignTime": [],
+    "manualRetryCreatedAt": [],
+    "manualRetryCompletedAt": [],
+    "_id": "682d6801c1b83409cc898f0c",
+    "name": "testing",
+    "assistantId": "68145beb76bf01258ce34ce6",
+    "clientId": "68145beb76bf01258ce34ce1",
+    "status": "SENDING",
+    "filters": "null",
+    "type": "BROADCAST",
+    "messageType": "TEMPLATE",
+    "skipOptedOut": true,
+    "paramsFallbackValue": {},
+    "audienceCount": 1,
+    "isMediaStatic": true,
+    "dbQuery": "{\"assistantId\":\"68145beb76bf01258ce34ce6\",\"userNumber\":{\"$in\":[\"916376466696\"]}}",
+    "tempFiltersRegular": "null",
+    "payload": {
+        "templateName": "welome_to_school",
+        "template": {
+            "_id": "68199e547ffe2c0c1b4eddaa",
+            "status": "APPROVED",
+            "processed": "2025-05-06T05:29:56.878Z",
+            "callToAction": [],
+            "quickReplies": [],
+            "templateParams": [
+                "Mr Sharma",
+                "rahul101@gmail.com",
+                "ABHI_ST0001",
+                "rahul@123",
+                "BDS Vidya Mandir"
+            ],
+            "label": "welome_to_school",
+            "category": "UTILITY",
+            "type": "IMAGE",
+            "name": "welome_to_school",
+            "format": "Hi, {{1}}!\n\nThank you for joining our school. Here are your onboarding details:\n\nEmail: {{2}}\n\nStaff Registration ID: {{3}}\n\nPassword: {{4}}\n\nPlease keep these details for future reference.\n\nClick here to visit the portal: https://vidhyadhristi.com/login\n\nThank you!\n{{5}}",
+            "sampleMessage": "Hi, [Mr Sharma]!\n\nThank you for joining our school. Here are your onboarding details:\n\nEmail: [rahul101@gmail.com]\n\nStaff Registration ID: [ABHI_ST0001]\n\nPassword: [rahul@123]\n\nPlease keep these details for future reference.\n\nClick here to visit the portal: https://vidhyadhristi.com/login\n\nThank you!\n[BDS Vidya Mandir]",
+            "actionType": "All",
+            "sampleMediaUrl": "4::aW1hZ2UvcG5n:ARbd1EdfB_sRi0jFiqWXgE__-aOBTkNGiIHmaHVHnAxU6QdiOgiOggiLF4n0TZs3r_1Xs5zrUqzZwHb2I5Pz9jGFa8BoRBHXR1SftKsCRa9QsQ:e:1746854984:799369954601524:100085341793629:ARYlFkaZvzFQrBq1iuk",
+            "sampleCTAUrl": "",
+            "isClickTrackingEnabled": false,
+            "buttons": [],
+            "parameters": 5,
+            "namespace": "ad4df8c6_f7d5_4081_8e39_95d4eb92dd3b",
+            "templateId": "1100984151869136",
+            "templateLanguage": "English",
+            "assistantId": "68145beb76bf01258ce34ce6",
+            "clientId": "68145beb76bf01258ce34ce1",
+            "assistantName": "Abhiyantrik.ai",
+            "partnerId": null,
+            "carouselCards": [],
+            "createdAt": "2025-05-06T05:29:56.881Z",
+            "updatedAt": "2025-05-07T05:46:40.102Z",
+            "__v": 0,
+            "quality": "UNKNOWN",
+            "rejectedReason": "NONE",
+            "statusJourney": [
+                {
+                    "_id": "68199e7e6fb9d50f7149993b",
+                    "status": "APPROVED",
+                    "timestamp": "2025-05-06T05:30:38.073Z",
+                    "reason": "NONE"
+                }
+            ]
+        },
+        "parameters": [
+            "Parent",
+            "narendraotusone@gmail.com",
+            "STAF_0001",
+            "ABC@!@#",
+            "VIDHYA DRISHTI"
+        ],
+        "media": {
+            "url": "https://vidhyadhristi.com/Images/vidyalogo.png",
+            "filename": "",
+            "publicUrl": "https://vidhyadhristi.com/Images/vidyalogo.png"
+        }
+    },
+    "reservedTemplateQuota": 0,
+    "messageErrors": {},
+    "createdAt": "2025-05-21T05:43:29.540Z",
+    "updatedAt": "2025-05-21T05:43:29.540Z",
+    "__v": 0
+}

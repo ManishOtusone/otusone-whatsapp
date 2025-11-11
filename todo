@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "data": {
+        "id": "68490e9b9290465808e23b1c",
+        "name": "My Production Server",
+        "key": "7076b8c875bea03b0502d062955333a7c2f3f45ed2033a40dc5d0ca8153acf07",
+        "scopes": [
+            "send_message",
+            "read_templates",
+            "manage_contacts"
+        ],
+        "createdAt": "2025-06-11T05:05:31.056Z",
+        "secret": "e8a486e4739e7fca134d3823626fc145229abf0d3a55e22c8d7235e5b65cc63c"
+    }
+   
+}
+
+
+

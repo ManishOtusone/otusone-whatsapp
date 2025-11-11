@@ -1,0 +1,43 @@
+// "_id": "681af3b08abd910c00df11aa",
+// "status": "APPROVED",
+// "processed": "2025-05-07T05:46:24.074Z",
+// "callToAction": [],
+// "quickReplies": [],
+// "templateParams": [
+//     "Mr Sharma",
+//     "10-A",
+//     "BDS Vidhya Mandir"
+// ],
+// "label": "admission_success",
+// "category": "UTILITY",
+// "type": "IMAGE",
+// "name": "admission_success",
+// "format": "Dear {{1}},\n\nWe are delighted to inform you that your child's admission to {{2}} has been successfully completed. \n\nThank you for choosing our school to be a part of your child's educational journey. We warmly welcome you to our school community!\n\nThanks!\n{{3}}",
+// "sampleMessage": "Dear [Mr Sharma],\n\nWe are delighted to inform you that your child's admission to [10-A] has been successfully completed. \n\nThank you for choosing our school to be a part of your child's educational journey. We warmly welcome you to our school community!\n\nThanks!\n[BDS Vidhya Mandir]",
+// "actionType": "All",
+// "sampleMediaUrl": "4::aW1hZ2UvcG5n:ARZr4j7e1JjTf0SwlG_S3D5fVlmfB4f7wWkdzK0TBpKxep4WtHZlK4ATOXFm_7d3Unl5GjyWJ0UaLbAJoWhp8WaafS0bLvnmb8aHthpk8UrqYQ:e:1746942374:799369954601524:100085341793629:ARZR3V49XhR4xa-XkVY",
+// "sampleCTAUrl": "",
+// "isClickTrackingEnabled": false,
+// "buttons": [],
+// "parameters": 3,
+// "namespace": "ad4df8c6_f7d5_4081_8e39_95d4eb92dd3b",
+// "templateId": "1194272772186176",
+// "templateLanguage": "English",
+// "assistantId": "68145beb76bf01258ce34ce6",
+// "clientId": "68145beb76bf01258ce34ce1",
+// "assistantName": "Abhiyantrik.ai",
+// "partnerId": null,
+// "carouselCards": [],
+// "createdAt": "2025-05-07T05:46:24.077Z",
+// "updatedAt": "2025-05-07T05:46:40.102Z",
+// "__v": 0,
+// "rejectedReason": "NONE",
+// "statusJourney": [
+//     {
+//         "_id": "681af3bf1404430f72c25307",
+//         "status": "APPROVED",
+//         "timestamp": "2025-05-07T05:46:39.553Z",
+//         "reason": "NONE"
+//     }
+// ],
+// "quality": "UNKNOWN"
